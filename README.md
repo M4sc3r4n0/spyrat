@@ -9,7 +9,7 @@
 <br /><br />
 
 ## Description:
-    SpyRat is a remote access trojen written in python with auto persistence option 
+    SpyRat is a remote access trojan written in python with auto persistence option 
  
 ## Download/Config/Usage:
     1? - Download the tool from github
